@@ -2,9 +2,9 @@
    International-debt-analysis
  
    Questions answered:
-     1. Which 5 countries have the highest public external debt (last 5 years)?
-     2. Which 5 countries have the highest private external debt (last 5 years)?
-     3. How has Colombia's debt evolved over time?
+1. Which five countries had the highest average annual public and publicly guaranteed external debt from 2020 to 2024?
+2. Which five countries had the highest average annual private nonguaranteed external debt over the same period?
+3. What were Colombia's rankings and average annual debt levels for both indicators?
    ===================================================================== */
 
 -- Column names
